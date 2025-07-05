@@ -16,4 +16,5 @@ HTML, CSS, JavaScript, Cloudinary API
 3. Open `index.html` in browser
 
 ## 🔗 View Project
-[GitHub Repo](https://github.com/yourusername/cloudinary-image-uploader)
+[GitHub Repo](https://github.com/Unnati-29/cloudinary-image-uploader)
+
